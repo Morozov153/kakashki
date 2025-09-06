@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\",
+  "WorkspaceRootPath": "E:\\TestGit\\kakashki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|c:\\users\\denmo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|solutionrelative:pro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|solutionrelative:pro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|c:\\users\\denmo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|E:\\TestGit\\kakashki\\pro\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|solutionrelative:pro\\pagemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|c:\\users\\denmo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|e:\\testgit\\kakashki\\pro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|solutionrelative:pro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|E:\\TestGit\\kakashki\\pro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|solutionrelative:pro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|E:\\TestGit\\kakashki\\pro\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F1B5DE7-ABC5-42EE-B16B-7E7C4606C078}|pro\\pro.csproj|solutionrelative:pro\\pagemain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,40 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Pagemain.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\Pagemain.xaml.cs",
+              "DocumentMoniker": "E:\\TestGit\\kakashki\\pro\\Pagemain.xaml.cs",
               "RelativeDocumentMoniker": "pro\\Pagemain.xaml.cs",
-              "ToolTip": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\Pagemain.xaml.cs",
+              "ToolTip": "E:\\TestGit\\kakashki\\pro\\Pagemain.xaml.cs",
               "RelativeToolTip": "pro\\Pagemain.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T17:37:28.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T17:37:28.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Pagemain.xaml",
-              "DocumentMoniker": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\Pagemain.xaml",
+              "DocumentMoniker": "E:\\TestGit\\kakashki\\pro\\Pagemain.xaml",
               "RelativeDocumentMoniker": "pro\\Pagemain.xaml",
-              "ToolTip": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\Pagemain.xaml",
+              "ToolTip": "E:\\TestGit\\kakashki\\pro\\Pagemain.xaml",
               "RelativeToolTip": "pro\\Pagemain.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-06T17:36:03.621Z",
@@ -67,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\TestGit\\kakashki\\pro\\MainWindow.xaml",
               "RelativeDocumentMoniker": "pro\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\MainWindow.xaml",
+              "ToolTip": "E:\\TestGit\\kakashki\\pro\\MainWindow.xaml",
               "RelativeToolTip": "pro\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-06T17:00:45.979Z",
@@ -79,16 +66,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\TestGit\\kakashki\\pro\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "pro\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\denmo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pro\\pro\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\TestGit\\kakashki\\pro\\MainWindow.xaml.cs",
               "RelativeToolTip": "pro\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T17:00:45.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T17:00:45.229Z"
             }
           ]
         }
