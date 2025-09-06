@@ -1,0 +1,49 @@
+﻿<Page x:Class="pro.Pagemain"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pro"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="500"
+      Title="Андерсерповский Генератор" Background="White">
+    <Grid Background ="White" Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel >
+
+            <StackPanel Margin="0,10,0,0">
+                <Image Source="/труш.jpg" Width="380" Height="150" Stretch="Fill">
+                    <Image.Clip>
+                        <RectangleGeometry Rect="0,0,380,150" RadiusX="50" RadiusY="50"/>
+                    </Image.Clip>
+                </Image>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,40,0,0">
+                <TextBlock Text="Выберете кол-во пар у вас завтра:" FontSize="13"  x:Name="NameTextBox" FontFamily="Montserrat SemiBold" FontWeight="Bold" />
+                <ComboBox x:Name="Input" Margin="10,0,0,0" Width="120"></ComboBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,120,0,0">
+                <Button  Background="Red" FontFamily="Montserrat SemiBold"  FontWeight="Bold" FontSize="10" Height="100" Content="Выполнить важное решение" Width="250" Click="Button_Click" ToolTip="Независимый комитет ОАО 'Андерсерп' выберет на какую пару не пойти">
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border 
+                        CornerRadius="50" 
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}">
+                                <ContentPresenter 
+                                HorizontalAlignment="Center" 
+                                VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
