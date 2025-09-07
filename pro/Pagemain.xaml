@@ -23,7 +23,7 @@
             </StackPanel>
 
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,40,0,0">
-                <TextBlock Text="ВыбsdfsdfdsFdSFASDADFSAFвтра:" FontSize="13"  x:Name="NameTextBox" FontFamily="Montserrat SemiBold" FontWeight="Bold" />
+                <TextBlock Text="11111втра:" FontSize="13"  x:Name="NameTextBox" FontFamily="Montserrat SemiBold" FontWeight="Bold" />
                 <ComboBox x:Name="Input" Margin="10,0,0,0" Width="120"></ComboBox>
             </StackPanel>
 
